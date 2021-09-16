@@ -16,4 +16,4 @@ Monitoring is one of the major things of our project. In this technology, it is 
 
 ![code quality score](https://www.code-inspector.com/project/28864/score/svg)
 
-https://www.code-inspector.com/project/28864/status/svg
+![quality grade](https://www.code-inspector.com/project/28864/status/svg)
