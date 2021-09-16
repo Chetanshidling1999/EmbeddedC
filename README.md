@@ -13,3 +13,7 @@ Monitoring is one of the major things of our project. In this technology, it is 
 | 6_Results_ImagesAndVideos      | Simulation Images and Videos|
 
 ## Code Inspector Badges
+
+https://www.code-inspector.com/project/28864/score/svg
+
+https://www.code-inspector.com/project/28864/status/svg
