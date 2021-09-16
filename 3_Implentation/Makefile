@@ -1,12 +1,12 @@
-PROJ_NAME = Vehcile_MONITORING_SYSTEM
+PROJ_NAME = PASSANGER_SEAT_AND_HEAT_MONITORING_SYSTEM
 
 BUILD_DIR = Build
 
 # All Source code files
 SRC = main_test/main.c\
-src/act1.c\
-src/act2.c\
-src/act3.c
+src/activity1.c\
+src/activity2.c\
+src/activity3.c
 
 # All header file paths
 INC = -I inc
