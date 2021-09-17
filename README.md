@@ -17,3 +17,7 @@ Monitoring is one of the major things of our project. In this technology, it is 
 ![code quality score](https://www.code-inspector.com/project/28864/score/svg)
 
 ![quality grade](https://www.code-inspector.com/project/28864/status/svg)
+
+## Code ac
+
+[![Codeac](https://static.codeac.io/badges/2-407110585.svg "Codeac")](https://app.codeac.io/github/Chetanshidling1999/EmbeddedC)
