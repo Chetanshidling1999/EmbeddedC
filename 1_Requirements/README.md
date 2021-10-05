@@ -6,8 +6,8 @@ Monitoring is one of the major things of our project. In this technology, it is 
 -  Its capable of determining weather the user is exist or not in the vehicle.
 -  If Passanger was existed in the vehicle it will gives the indication.
 -  After the indication it will determine the heat.
--  Driver and the passanger can have the access to modifying the temperature in the vehicle.
--  The passanger can modify the temperature by watching the display as the display is given in the system
+-  Driver and the passanger can have the access to chaning the temperature in the vehicle.
+-  The passanger can change the temperature by watching the display as the display is given in the system
 -  Modular Based Programming.
 
 ## SWOT Analysis- Strengths, and Weakness, Opportunities Threats
@@ -19,10 +19,10 @@ Monitoring is one of the major things of our project. In this technology, it is 
 -  User Friendly.
 
 ### Weakness
-- It's only applicable for the countries which are having having low temperature.
+- It's only useful for the countries which are having having low temperature.
 
 ### Opportunities
-- It can be implemented by replacing heater by air conditioners so that it will be helpful in all the countries.
+- It can be practised by replacing heater by air conditioners so that it will be usefull in all the countries.
 
 ### Threats
 - Not suitable for average or high temperature environment.
